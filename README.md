@@ -107,4 +107,15 @@ GPS 및 증강 현실(AR) 기술을 활용해 사용자가 현재 위치에서 �
 
 # 4. 기술스택
 
+<div align="center">
+<h1>개발환경</h1>
+<img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"> 
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</div>
 
+<div align="center">
+<h1>Front-end Stack</h1>
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</div>
