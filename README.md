@@ -33,9 +33,19 @@ ALL-LIFE어플리케이션은 GPS와 AR기술을 활용해 사용자에게 직�
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/사용자2">
-        <img src="https://github.com/사용자2.png" width="100" height="100"><br />
-        사용자2 이름
+      <a href="https://github.com/INMD1">
+        <img src="https://github.com/INMD1.png" width="100" height="100"><br />
+        이호준
+      </a>
+    <td align="center">
+      <a href="https://github.com/ByeolNabi">
+        <img src="https://github.com/ByeolNabi.png" width="100" height="100"><br />
+        김대규
+      </a>
+    <td align="center">
+      <a href="https://github.com/Blank-Fabula">
+        <img src="https://github.com/Blank-Fabula.png" width="100" height="100"><br />
+        이기택
       </a>
     </td>
   </tr>
