@@ -1,16 +1,4 @@
-# 폴더 관리
-root에서 각자 폴더 안에서 관리하기
-gitignore는 루트 폴더에서 통합 관리하기
-# 백엔드
-1. 로그인 기능
-```
-로그인 기능같은 경우
-ID: string
-pw: string (특수기호 안들어가면 API단에서도 콜백 시키도록 함)
-username: string
-email: string
-private open: (true/false)-> 개인정보 수집을 동의한 경우 true임 기본값은 false임
-```
+
 
 # 1. 서비스 소개
 <img width="996" alt="스크린샷 2024-12-10 오후 9 53 13" src="https://github.com/user-attachments/assets/b7f605f8-b120-4f8c-8d24-f59a36c1223d">
@@ -96,12 +84,25 @@ GPS 및 증강 현실(AR) 기술을 활용해 사용자가 현재 위치에서 �
 증강 현실(AR) 기능은 웹 기반으로 구현하여 다양한 기기에서 제한 없이 접근할 수 있도록 하였습니다. AR 콘텐츠는 three.js와 AR.js를 사용하여 개발, 사용자에게 직관적인 AR 경험을 제공 
 추가적으로, 문제 번역 기능은 OpenAI의 API를 활용하여 실시간 번역 서비스를 구현하였고, 지도 서비스는 Naver Map API를 통해 제공하고 있음.
 
+<details>
+<summary>프론트엔드 상세정보</summary>
+  
+&&&&&&&&&&&&&
+
+</details>
 
 **백엔드 (서버 및 데이터베이스 설계)** :
 개발서버 환경은 Proxmox 가상 머신 솔루션을 설치하여 각 기능별로 필요한 데이터를 수집하고 프로세스를 관리하고 있음
 수집된 데이터는 중앙 집중화를 위해 Strapi를 사용하여 통합하고, 이를 통해 원활한 API 서비스를 제공
 데이터베이스는 각 개발팀의 편의에 따라 다양한 데이터베이스를 활용하며, 주요 데이터 집중화 작업은 MySQL을 통해 수행하고 있음
 이를 통해 데이터의 일관성과 접근성을 높임.
+
+<details>
+<summary>백엔드 상세정보</summary>
+  
+&&&&&&&&&&&&&
+
+</details>
 
 ## 3-2. 
 
@@ -144,3 +145,13 @@ GPS 및 증강 현실(AR) 기술을 활용해 사용자가 현재 위치에서 �
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
+
+## 🏆 Awards
+
+| Date & Award Name | Award Grade |
+|-------------------|-------------|
+| 2024.10.17 제12회 K-해커톤 | 우수상(한국콘텐츠학회장상) |
+| 2024.11.15 교내 통합성과경진대회 | 대상(총장상) |
+
+
+
