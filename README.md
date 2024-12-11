@@ -124,12 +124,13 @@ GPS 및 증강 현실(AR) 기술을 활용해 사용자가 현재 위치에서 �
 <div align="center">
 <h1>Back-end Stack</h1>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs-181717?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 </div>
 
 <div align="center">
 <h1>DataBase</h1>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 
 <div align="center">
