@@ -21,7 +21,6 @@ ALL-LIFE어플리케이션은 GPS와 AR기술을 활용해 사용자에게 직�
 ## 제작기간 및 참여인원
 프로젝트 기간: 2024.6.14 ~ 2024.11.15
 
-참여인원: 5인
 ## 참여인원
 
 <table>
@@ -50,6 +49,7 @@ ALL-LIFE어플리케이션은 GPS와 AR기술을 활용해 사용자에게 직�
     </td>
   </tr>
 </table>
+참여인원: 5인
 
 ## 기획배경
 <img width="999" alt="스크린샷 2024-12-10 오후 10 11 40" src="https://github.com/user-attachments/assets/bc0d6699-a67b-4589-b8c3-07ed3067dcd4">
