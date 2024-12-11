@@ -116,6 +116,30 @@ GPS 및 증강 현실(AR) 기술을 활용해 사용자가 현재 위치에서 �
 
 <div align="center">
 <h1>Front-end Stack</h1>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</div>
+
+<div align="center">
+<h1>Back-end Stack</h1>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-181717?style=flat-square&logo=nestjs&logoColor=white"/>
+</div>
+
+<div align="center">
+<h1>DataBase</h1>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</div>
+
+<div align="center">
+<h1>CI / CD</h1>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge">
+</div>
+
+<div align="center">
+<h1>협업툴</h1>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
