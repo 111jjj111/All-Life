@@ -95,26 +95,27 @@ AR같은 경우는 플러터로 개발을 할시 카메라에 관한 데이터�
 
 
 
-**백엔드 (서버 및 데이터베이스 설계)** :
+**대피소 백엔드 (서버 및 데이터베이스 설계)** :
 개발서버 환경은 Proxmox 가상 머신 솔루션을 설치하여 각 기능별로 필요한 데이터를 수집하고 프로세스를 관리하고 있음
 수집된 데이터는 중앙 집중화를 위해 Strapi를 사용하여 통합하고, 이를 통해 원활한 API 서비스를 제공
 데이터베이스는 각 개발팀의 편의에 따라 다양한 데이터베이스를 활용하며, 주요 데이터 집중화 작업은 MySQL을 통해 수행하고 있음
 이를 통해 데이터의 일관성과 접근성을 높임.
 
-<details>
-<summary>백엔드 상세정보</summary>
+## API 백엔드 상세정보
 
-백엔드 API서버
-nest.js를 이용해서 백엔드 서비스를 만들었음.
-JWT를 이용해 인증, 인가를 판단함
-typeORM을 사용해서 DB를 정의하였기 때문에 postgreSQL에 Database이름이 존재한다면 자동으로 테이블을 생성함
+### 백엔드 API서버
+nest.js를 이용해서 백엔드 서비스를 만들었음.   
+JWT를 이용해 인증, 인가를 판단함   
+typeORM을 사용해서 DB를 정의하였기 때문에 postgreSQL에 Database이름이 존재한다면 자동으로 테이블을 생성함   
 - OneToMany, ManyToOne을 이용해서 RDB의 외래키를 구현했음
-swagger를 이용해서 API를 확인할 수 있는 docs를 확인할 수 있음.
+swagger를 이용해서 API를 확인할 수 있는 docs를 확인할 수 있음.   
+<img width="206" alt="Screenshot 2024-12-17 at 9 25 25 PM" src="https://github.com/user-attachments/assets/93bbe81b-1d68-4b83-a459-ab320e7ea7ab" />
 
 
-DB 정보
-postgreSQL을 사용했음
-전국의 모든 대피소에 대한 정보는 다른 백엔드 서버에서 제공하기 때문에 uuid만을 저장함
+### DB 정보
+postgreSQL을 사용했음   
+전국의 모든 대피소에 대한 정보는 다른 백엔드 서버에서 제공하기 때문에 uuid만을 저장함   
+<img width="731" alt="Screenshot 2024-12-17 at 9 25 40 PM" src="https://github.com/user-attachments/assets/fe8a3852-e4b2-49d9-9ec5-e3cec534d366" />
 
 
 </details>
