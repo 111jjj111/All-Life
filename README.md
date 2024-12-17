@@ -103,8 +103,19 @@ AR같은 경우는 플러터로 개발을 할시 카메라에 관한 데이터�
 
 <details>
 <summary>백엔드 상세정보</summary>
-  
-&&&&&&&&&&&&&
+
+백엔드 API서버
+nest.js를 이용해서 백엔드 서비스를 만들었음.
+JWT를 이용해 인증, 인가를 판단함
+typeORM을 사용해서 DB를 정의하였기 때문에 postgreSQL에 Database이름이 존재한다면 자동으로 테이블을 생성함
+- OneToMany, ManyToOne을 이용해서 RDB의 외래키를 구현했음
+swagger를 이용해서 API를 확인할 수 있는 docs를 확인할 수 있음.
+
+
+DB 정보
+postgreSQL을 사용했음
+전국의 모든 대피소에 대한 정보는 다른 백엔드 서버에서 제공하기 때문에 uuid만을 저장함
+
 
 </details>
 
